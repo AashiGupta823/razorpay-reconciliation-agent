@@ -1,0 +1,64 @@
+txn_id,date,amount,merchant,narration
+TXN10033,2026-08-12,5638.15,Urban Threads,Urban Threads order settlement
+TXN10037,2026-08-13,9663.16,Wavelength Audio,Wavelength Audio order settlement
+TXN10012,2026-08-12,21216.86,Nimbus Books,Nimbus Books order settlement
+TXN10043,2026-08-17,19095.66,Kettle & Co,Kettle & Co order settlement
+TXN10044,2026-08-28,15706.44,Fresh Cart,Fresh Cart order settlement
+TXN10015,2026-08-03,13889.61,Trailhead Gear,Trailhead Gear order settlement
+TXN10008,2026-08-26,21757.65,Urban Threads,Urban Threads order settlement
+TXN10041,2026-08-10,10981.18,Wavelength Audio,Wavelength Audio order settlement
+TXN10022,2026-08-20,15946.46,Fresh Cart,Fresh Cart order settlement
+TXN10059,2026-08-09,16719.07,Fresh Cart,Card txn Fresh Cart settlement ref
+TXN10013,2026-08-26,1276.57,Wavelength Audio,Wavelength Audio order settlement
+TXN10003,2026-08-22,18567.56,Kettle & Co,Kettle & Co order settlement
+TXN10020,2026-08-06,9379.49,Fresh Cart,Fresh Cart order settlement
+TXN10009,2026-08-23,10679.84,Nimbus Books,Nimbus Books order settlement
+TXN10038,2026-08-17,6434.07,Zylo Mart,Zylo Mart order settlement
+TXN10052,2026-08-23,10692.82,Fresh Cart,Fresh Cart order settlement
+TXN10057-DUP,2026-08-23,15850.35,Fresh Cart,Fresh Cart order settlement
+TXN10051,2026-08-16,23667.9,Urban Threads,Urban Threads order settlement
+TXN10058,2026-08-03,22552.29,Trailhead Gear,POS purchase - Trailhead Gear
+TXN10021,2026-08-22,6820.05,Kettle & Co,Kettle & Co order settlement
+TXN10023,2026-08-06,11663.05,Nimbus Books,Nimbus Books order settlement
+TXN10040,2026-08-25,16094.85,Kettle & Co,Kettle & Co order settlement
+TXN10049,2026-08-08,1627.97,Kettle & Co,Kettle & Co order settlement
+TXN10018,2026-08-03,21410.88,Kettle & Co,Kettle & Co order settlement
+TXN10024,2026-08-21,17265.42,Fresh Cart,Fresh Cart order settlement
+TXN10034,2026-08-17,12438.19,Zylo Mart,Zylo Mart order settlement
+TXN10002,2026-08-08,5734.63,Kettle & Co,Kettle & Co order settlement
+TXN10054,2026-08-20,11395.86,Fresh Cart,Fresh Cart order settlement
+TXN10010,2026-08-05,5538.78,Trailhead Gear,Trailhead Gear order settlement
+TXN10056,2026-08-19,5660.39,Kettle & Co,Kettle & Co order settlement
+TXN10061,2026-08-07,2602.88,Kettle & Co,Kettle & Co refund adjustment
+TXN10045,2026-08-05,9472.06,Urban Threads,Urban Threads order settlement
+TXN10028,2026-08-19,21932.92,Trailhead Gear,Trailhead Gear order settlement
+TXN10019,2026-08-13,7092.75,Trailhead Gear,Trailhead Gear order settlement
+TXN10030,2026-08-21,11578.53,Nimbus Books,Nimbus Books order settlement
+TXN10017,2026-08-02,16598.33,Nimbus Books,Nimbus Books order settlement
+TXN10039,2026-08-22,18072.9,Nimbus Books,Nimbus Books order settlement
+TXN10053,2026-08-28,7929.56,Trailhead Gear,Trailhead Gear order settlement
+TXN10025,2026-08-22,8241.21,Zylo Mart,Zylo Mart order settlement
+TXN10050,2026-08-16,20427.53,Urban Threads,Urban Threads order settlement
+TXN10055-DUP,2026-08-03,8583.52,Fresh Cart,Fresh Cart order settlement
+TXN10026,2026-08-08,20579.7,Trailhead Gear,Trailhead Gear order settlement
+TXN10014,2026-08-18,3294.69,Corner Bakery,Corner Bakery order settlement
+TXN10031,2026-08-05,6315.36,Nimbus Books,Nimbus Books order settlement
+TXN10032,2026-08-24,14696.73,Corner Bakery,Corner Bakery order settlement
+TXN10027,2026-08-13,6838.97,Fresh Cart,Fresh Cart order settlement
+TXN10011,2026-08-04,2499.1,Kettle & Co,Kettle & Co order settlement
+TXN10065,2026-08-04,4950.43,Fresh Cart,Fresh Cart refund adjustment
+TXN10006,2026-08-18,5130.17,Corner Bakery,Corner Bakery order settlement
+TXN10001,2026-08-21,2960.01,Nimbus Books,Nimbus Books order settlement
+TXN10035,2026-08-28,2918.3,Urban Threads,Urban Threads order settlement
+TXN10042,2026-08-01,23853.64,Nimbus Books,Nimbus Books order settlement
+TXN10004,2026-08-19,10662.66,Zylo Mart,Zylo Mart order settlement
+TXN10007,2026-08-08,11339.38,Nimbus Books,Nimbus Books order settlement
+TXN10036,2026-08-26,17074.93,Kettle & Co,Kettle & Co order settlement
+TXN10056-DUP,2026-08-19,5660.39,Kettle & Co,Kettle & Co order settlement
+TXN10063,2026-08-24,16898.44,Zylo Mart,Zylo Mart refund adjustment
+TXN10055,2026-08-03,8583.52,Fresh Cart,Fresh Cart order settlement
+TXN10029,2026-08-07,16453.88,Corner Bakery,Corner Bakery order settlement
+TXN10005,2026-08-03,5621.22,Zylo Mart,Zylo Mart order settlement
+TXN10060,2026-08-19,14364.45,Fresh Cart,Fresh Cart - payment received
+TXN10057,2026-08-23,15850.35,Fresh Cart,Fresh Cart order settlement
+TXN10016,2026-08-19,4967.76,Kettle & Co,Kettle & Co order settlement
