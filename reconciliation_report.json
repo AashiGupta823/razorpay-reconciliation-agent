@@ -1,0 +1,227 @@
+{
+  "summary": {
+    "total_bank_transactions": 63,
+    "total_ledger_transactions": 60,
+    "matched": 51,
+    "match_rate_pct": 81.0,
+    "exceptions": 21,
+    "breakdown_by_pass": {
+      "exact": 45,
+      "fuzzy": 6,
+      "ai_verifier": 0
+    },
+    "ai_verifier_calls_made": 6
+  },
+  "exceptions": [
+    {
+      "txn_id": "TXN10043",
+      "source": "bank",
+      "amount": 19095.66,
+      "merchant": "Kettle & Co",
+      "date": "2026-08-17",
+      "narration": "Kettle & Co order settlement",
+      "reason": "no plausible counterpart in internal ledger",
+      "type": "missing_in_ledger"
+    },
+    {
+      "txn_id": "TXN10044",
+      "source": "bank",
+      "amount": 15706.44,
+      "merchant": "Fresh Cart",
+      "date": "2026-08-28",
+      "narration": "Fresh Cart order settlement",
+      "reason": "no plausible counterpart in internal ledger",
+      "type": "missing_in_ledger"
+    },
+    {
+      "txn_id": "TXN10059",
+      "source": "bank",
+      "amount": 16719.07,
+      "merchant": "Fresh Cart",
+      "date": "2026-08-09",
+      "narration": "Card txn Fresh Cart settlement ref",
+      "reason": "candidate(s) found but AI verifier confidence below threshold",
+      "type": "unresolved_ambiguous"
+    },
+    {
+      "txn_id": "TXN10057-DUP",
+      "source": "bank",
+      "amount": 15850.35,
+      "merchant": "Fresh Cart",
+      "date": "2026-08-23",
+      "narration": "Fresh Cart order settlement",
+      "reason": "no plausible counterpart in internal ledger",
+      "type": "missing_in_ledger"
+    },
+    {
+      "txn_id": "TXN10058",
+      "source": "bank",
+      "amount": 22552.29,
+      "merchant": "Trailhead Gear",
+      "date": "2026-08-03",
+      "narration": "POS purchase - Trailhead Gear",
+      "reason": "candidate(s) found but AI verifier confidence below threshold",
+      "type": "unresolved_ambiguous"
+    },
+    {
+      "txn_id": "TXN10061",
+      "source": "bank",
+      "amount": 2602.88,
+      "merchant": "Kettle & Co",
+      "date": "2026-08-07",
+      "narration": "Kettle & Co refund adjustment",
+      "reason": "candidate(s) found but AI verifier confidence below threshold",
+      "type": "unresolved_ambiguous"
+    },
+    {
+      "txn_id": "TXN10045",
+      "source": "bank",
+      "amount": 9472.06,
+      "merchant": "Urban Threads",
+      "date": "2026-08-05",
+      "narration": "Urban Threads order settlement",
+      "reason": "no plausible counterpart in internal ledger",
+      "type": "missing_in_ledger"
+    },
+    {
+      "txn_id": "TXN10055-DUP",
+      "source": "bank",
+      "amount": 8583.52,
+      "merchant": "Fresh Cart",
+      "date": "2026-08-03",
+      "narration": "Fresh Cart order settlement",
+      "reason": "no plausible counterpart in internal ledger",
+      "type": "missing_in_ledger"
+    },
+    {
+      "txn_id": "TXN10065",
+      "source": "bank",
+      "amount": 4950.43,
+      "merchant": "Fresh Cart",
+      "date": "2026-08-04",
+      "narration": "Fresh Cart refund adjustment",
+      "reason": "candidate(s) found but AI verifier confidence below threshold",
+      "type": "unresolved_ambiguous"
+    },
+    {
+      "txn_id": "TXN10056-DUP",
+      "source": "bank",
+      "amount": 5660.39,
+      "merchant": "Kettle & Co",
+      "date": "2026-08-19",
+      "narration": "Kettle & Co order settlement",
+      "reason": "no plausible counterpart in internal ledger",
+      "type": "missing_in_ledger"
+    },
+    {
+      "txn_id": "TXN10063",
+      "source": "bank",
+      "amount": 16898.44,
+      "merchant": "Zylo Mart",
+      "date": "2026-08-24",
+      "narration": "Zylo Mart refund adjustment",
+      "reason": "candidate(s) found but AI verifier confidence below threshold",
+      "type": "unresolved_ambiguous"
+    },
+    {
+      "txn_id": "TXN10060",
+      "source": "bank",
+      "amount": 14364.45,
+      "merchant": "Fresh Cart",
+      "date": "2026-08-19",
+      "narration": "Fresh Cart - payment received",
+      "reason": "candidate(s) found but AI verifier confidence below threshold",
+      "type": "unresolved_ambiguous"
+    },
+    {
+      "txn_id": "ORD-4062",
+      "source": "ledger",
+      "amount": 2676.56,
+      "merchant": "Kettle & Co",
+      "date": "2026-08-07",
+      "narration": "Kettle & Co subscription renewal",
+      "reason": "no counterpart found in bank statement",
+      "type": "missing_in_bank"
+    },
+    {
+      "txn_id": "TXN10047",
+      "source": "ledger",
+      "amount": 8238.07,
+      "merchant": "Zylo Mart",
+      "date": "2026-08-20",
+      "narration": "Zylo Mart order settlement",
+      "reason": "no counterpart found in bank statement",
+      "type": "missing_in_bank"
+    },
+    {
+      "txn_id": "TXN10048",
+      "source": "ledger",
+      "amount": 23240.65,
+      "merchant": "Nimbus Books",
+      "date": "2026-08-04",
+      "narration": "Nimbus Books order settlement",
+      "reason": "no counterpart found in bank statement",
+      "type": "missing_in_bank"
+    },
+    {
+      "txn_id": "ORD-3058",
+      "source": "ledger",
+      "amount": 22653.42,
+      "merchant": "Trailhead Gear",
+      "date": "2026-08-03",
+      "narration": "Trailhead Gear order settlement",
+      "reason": "no counterpart found in bank statement",
+      "type": "missing_in_bank"
+    },
+    {
+      "txn_id": "ORD-4064",
+      "source": "ledger",
+      "amount": 16985.46,
+      "merchant": "Zylo Mart",
+      "date": "2026-08-24",
+      "narration": "Zylo Mart subscription renewal",
+      "reason": "no counterpart found in bank statement",
+      "type": "missing_in_bank"
+    },
+    {
+      "txn_id": "ORD-3059",
+      "source": "ledger",
+      "amount": 16789.65,
+      "merchant": "Fresh Cart",
+      "date": "2026-08-09",
+      "narration": "Fresh Cart order settlement",
+      "reason": "no counterpart found in bank statement",
+      "type": "missing_in_bank"
+    },
+    {
+      "txn_id": "ORD-4066",
+      "source": "ledger",
+      "amount": 5016.57,
+      "merchant": "Fresh Cart",
+      "date": "2026-08-04",
+      "narration": "Fresh Cart subscription renewal",
+      "reason": "no counterpart found in bank statement",
+      "type": "missing_in_bank"
+    },
+    {
+      "txn_id": "ORD-3060",
+      "source": "ledger",
+      "amount": 14489.05,
+      "merchant": "Fresh Cart",
+      "date": "2026-08-19",
+      "narration": "Fresh Cart order settlement",
+      "reason": "no counterpart found in bank statement",
+      "type": "missing_in_bank"
+    },
+    {
+      "txn_id": "TXN10046",
+      "source": "ledger",
+      "amount": 23845.79,
+      "merchant": "Zylo Mart",
+      "date": "2026-08-18",
+      "narration": "Zylo Mart order settlement",
+      "reason": "no counterpart found in bank statement",
+      "type": "missing_in_bank"
+    }
+  ]
+}
